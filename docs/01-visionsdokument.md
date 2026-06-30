@@ -70,10 +70,10 @@ _Messbare Ziele (SMART). Was wird mit dem System erreicht (Soll-Zustand)._
 - Der Administrator kann neue Bücher in unter 5 Minuten ohne technische Vorkenntnisse hinzufügen.
 - Online-Einkäufe und -Zahlungen sind in maximal 4 Schritten erledigt.
 
-## 7. Risiken (optional)
+## 7. Risiken 
 | Risiko | Wahrscheinlichkeit | Auswirkung | Gegenmaßnahme |
 |---|---|---|---|
-| … | Hoch/Mittel/Gering | Hoch/Mittel/Gering | … |
+|  | Hoch/Mittel/Gering | Hoch/Mittel/Gering |  |
 |Gibt es im Falle eines Fehlers keinen technischen Support für das Hosting. | Mittel | Mittel | noch festzulegen
 |Aufgrund der minimalen Leistungsmerkmale des kostenlosen Hostings gibt es keine Garantie für die Ladegeschwindigkeit der Website | Mittel | Mittel | noch festzulegen
 |Das kostenlose Hosting könnte ohne Vorankündigung plötzlich eingestellt werden. | Mittel | Hoch| noch festzulegen
