@@ -2,8 +2,8 @@
 
 | Feld | Wert |
 |---|---|
-| Projekt |  |
-| Product Owner | _[Wer Prioritäten und Kriterien freigibt]_ |
+| Projekt | Book-ecommerce System von AS GmbH |
+| Product Owner | AS GmbH |
 
 ---
 
