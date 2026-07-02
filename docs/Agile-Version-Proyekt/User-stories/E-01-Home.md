@@ -1,6 +1,6 @@
-# E-01 ·  Startseite(Home)
+# E-01 · Startseite(Home)
 
-## US-001 [Offnungzeiten]
+## US-001 Offnungzeiten
 
 **Als** Kunde 
 **möchte ich**  die Öffnungs- und Schließzeiten einsehen können.
@@ -13,7 +13,7 @@
 - Die Informationen werden in der Fußzeile angezeigt.
 
 ---
-## US-002 [Identität]
+## US-002 Identität
 
 **Als** Kunde 
 **möchte ich** möchte ich die Identität des Unternehmens anhand des Namens und des Logos eindeutig erkennen können,
@@ -26,7 +26,7 @@
 - Das Logo und der Name werden als JPG-Bild vorliegen.
 
 ---
-## US-003 [Wertversprechen]
+## US-003 Wertversprechen
 
 **Als**  Kunde 
 **möchte ich** verstehen, was mir das Unternehmen durch sein Wertversprechen biete
@@ -40,7 +40,7 @@
 ---
 
 
-## US-004[Hauptangebote]
+## US-004 Hauptangebote
 
 **Als** Kunde  
 **möchte ich** möchte ich die wichtigsten Produkte des Shops leicht erkennen können,
@@ -48,5 +48,7 @@
 
 ### Akzeptanzkriterien
 - Die vier ausgewählten Bücher werden ausgestellt
+- Von jedem Buch werden ein Bild, der Titel, der Autor und der Preis angezeigt. 
+- Bei großer Bildschirmgröße werden die vier Bücher in einer einzigen Zeile angezeigt, bei mittlerer Bildschirmgröße in zwei Zeilen und zwei Spalten und bei kleiner Bildschirmgröße in einer Spalte.
 
 ---
