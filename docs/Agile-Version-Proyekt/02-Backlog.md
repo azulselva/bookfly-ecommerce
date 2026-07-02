@@ -2,7 +2,7 @@
 
 | Feld | Wert |
 |---|---|
-| Projekt | Book-ecommerce System von AS GmbH |
+| Projekt | Bookfly-ecommerce System von AS GmbH |
 | Product Owner | AS GmbH |
 
 ---
