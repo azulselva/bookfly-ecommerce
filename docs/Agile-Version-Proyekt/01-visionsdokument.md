@@ -21,17 +21,19 @@ _Messbare Ziele (SMART). Was wird mit dem System erreicht (Soll-Zustand)._
 - Z3: Der Online-Katalog des Shops muss sicher und einfach aktualisiert werden können.
 - Z4: Es soll den Kunden ermöglichen, Bücher auf sichere und intuitive Weise in wenigen Schritten zu kaufen.
 - Z5: . Die Grundfunktionen der Website müssen bis zum 28. August 2026 einsatzbereit sein. Das Unternehmen strebt damit eine größere Kundennähe und die Erweiterung seines potenziellen Marktes an.
+- Z6: Der Kunde möchte Verkaufsstatistiken einsehen können.
 
 ## 3. Umfang (Scope)
 
 **Im Umfang enthalten (In Scope)**
-- Visueklles Design im Enklang mit der Mearkenidentotäat
+- Visuelles Design im Enklang mit der Markenidentität
 - Seite mit Unternehmenphilosophie, Öffnungszeiten und   Allgemeine Geschäftsbedingungen (AGB).
 - Öffentlicher Katalog mit Filtern nach Titel, Autor und Sparache
 - Administrationsbereich zur Aktualisierung des Katalogs
 - Einfache Registrierung mit Benutzername und Passwort
 - Warenkorb und  und Simulator für die Zahlungsplattform
 - Einführung der Grundfunktionen bis zum 28.08.2026
+- Dashboard zur Anzeige von Verkaufsstatistiken
 - API zur Anbindung an externe Plattformen (vorläufig)
 
 
