@@ -11,7 +11,7 @@
 
 | ID | Epic | Kurzbeschreibung | Priorität |
 |---|---|---|---|
-| E-01 |Startseite (Home) |  nombre, logo, propuesta de valor, productos principales, ubicación, horarios de apertura de la tienda física | M |
+| E-01 |Startseite (Home) | 	Name, Logo, Wertversprechen, Hauptprodukte, Standort, Öffnungszeiten des Ladengeschäfts | M |
 | E-02 |Informationsseiten |  zusätzliche Seiten wie „Über uns“, „AGB“, „Kontakt“ | M |
 | E-03 |Buchkatalog |Liste der Bücher mit Titel und Preis| M |
 | E-04 |Buchdetails  |Beschreibung des Buches mit Titel, Seitenzahl, Autor, Sprache und Link zum Warenkorb.| M |
