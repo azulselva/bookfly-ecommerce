@@ -52,3 +52,4 @@
 - Bei großer Bildschirmgröße werden die vier Bücher in einer einzigen Zeile angezeigt, bei mittlerer Bildschirmgröße in zwei Zeilen und zwei Spalten und bei kleiner Bildschirmgröße in einer Spalte.
 
 ---
+![Mockup-E01-Home](Mockups/Mockup-E01-Home.png)
