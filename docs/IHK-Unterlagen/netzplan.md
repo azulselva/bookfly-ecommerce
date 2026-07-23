@@ -17,6 +17,6 @@
 | K       | Go-Live                     | 1             | J         |
 |         |                             | **80**        |           |
 
-## Diagram
+## Diagramm
 
 ![Vorgangsknotennetz](img/vorgangsknotennetz.png)
