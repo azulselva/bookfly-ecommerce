@@ -1,0 +1,167 @@
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+
+header {
+    padding: 1.5rem;
+}
+
+
+.logo{
+    width: 200px;
+    height: auto;
+}
+
+.banner-basic {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+    padding: 2rem;
+    margin-bottom:  2rem;
+    color: #27405D;
+    background-color: #A4C9D7;
+
+}
+
+
+.banner-temp-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.banner-temp {
+    position: relative; 
+    font-size: 1.3rem;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+    color: #8F3959;
+    padding-block: 2em;
+    padding-inline: 2em;
+    margin: 2rem 2rem 4rem;
+    background-color: #e9c8d4;
+    border-radius: 5rem;
+}
+
+.banner-temp::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 0px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #e9c8d4;
+}
+
+h2 {
+    font-size: 18px;
+    color: #27405D
+}
+
+.invisible-title {
+    display: none;
+    
+}
+
+
+.product-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-content: center; 
+    align-items: center;
+    gap: 1.5rem; 
+    max-width: 477px;
+    margin: 0 auto;
+}
+
+.color-price{
+    color:  #8F3959;
+    font-weight:600;
+}
+
+@media (min-width: 470px) {
+    .product-list {
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+    }
+}
+
+@media (min-width: 940px) {
+    .product-list {
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: center;
+        flex-wrap: nowrap;
+        max-width: 1400px;
+        padding-inline: 2.5rem;
+    }
+    .product-list > li {
+        flex: 1 1 0;
+    }
+}
+
+
+.image-item {
+    width:100%;
+    height: auto;
+    aspect-ratio: 184/ 245;
+    object-fit: cover;
+    border-radius: 0.7rem;
+}
+
+p {
+    font-size: 14px;
+    text-align: left;
+    color: #27405D
+}
+
+
+dt {
+    font-size: 15px;
+    font-weight: bold;
+    color: #27405D
+}
+
+dd {
+    font-size: 15px;
+    font-weight: normal;
+    color:#27405D
+}
+
+.product-title{
+    font-size: 16px;
+    color: #27405D
+}
+.footer-hours{
+    border-top: 1px solid #27405D;
+}
+
+.footer-divider {
+    border-top: 1px solid #a4c9d7;
+}
+
+.footer {
+    margin: 2.5rem;
+}
+
+address {
+    font-size: 13px;
+    color: #27405D
+}
+
+
+
+
+
+
+
+
