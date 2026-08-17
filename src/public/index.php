@@ -6,7 +6,7 @@
     </div>    
     
 
-    <main>
+    <main class="content">
         <h1 class="invisible-title">Bookfly-Büchershop-Favoriten</h1>
         <ul class="product-list">
             <li>

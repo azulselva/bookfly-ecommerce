@@ -4,7 +4,9 @@ body {
 
 
 header {
-    padding: 1.5rem;
+    padding: 1.75rem;
+    max-width: 60rem;
+    margin-inline: auto;
 }
 
 
@@ -58,8 +60,16 @@ header {
     border-top: 20px solid #e9c8d4;
 }
 
+h1 {
+   color: #27405D 
+}
+
 h2 {
     font-size: 18px;
+    color: #27405D
+}
+ 
+h3 {
     color: #27405D
 }
 
@@ -105,7 +115,6 @@ h2 {
         justify-content: center;
         flex-wrap: nowrap;
         max-width: 1400px;
-        padding-inline: 2.5rem;
     }
     .product-list > li {
         flex: 1 1 0;
@@ -153,7 +162,9 @@ dd {
 }
 
 .footer {
-    margin: 2.5rem;
+    padding: 0 1.75rem;
+    margin-inline: auto;
+    max-width: 60rem;
 }
 
 address {
@@ -161,10 +172,10 @@ address {
     color: #27405D
 }
 
+/* AGB */
 
-
-
-
-
-
-
+.content {
+    padding: 0 1.75rem;
+    max-width: 60rem;
+    margin-inline: auto;
+}
