@@ -13,4 +13,19 @@
 <body>
     <header>
         <img class="logo" src="img/Bookfly-logo-kurz-transparent.png">
+        <nav>
+            <ul class="main-menu">
+                <li>
+                    <a href="/index.php">Home</a>
+                </li>        
+                <li>
+                    <a href="#">Über uns</a>
+                </li>        
+                <li>
+                    <a href="/kontakt.php">Kontakt</a>
+                </li>        
+            </ul>
+        </nav>
     </header>   
+
+    

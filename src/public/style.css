@@ -7,6 +7,24 @@ header {
     padding: 1.75rem;
     max-width: 60rem;
     margin-inline: auto;
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-menu {
+    list-style-type: none;
+    color: #8F3959;
+    font-weight:500;
+    display: flex; 
+    gap: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.main-menu a {
+    color: inherit; /* toma el color del padre, #8F3959 */
+    text-decoration: none; /* quita el subrayado por defecto */    
 }
 
 
@@ -63,6 +81,7 @@ header {
 h1 {
    color: #27405D 
 }
+
 
 h2 {
     font-size: 18px;
@@ -143,6 +162,19 @@ dt {
     color: #27405D
 }
 
+dt {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+}
+
+.dt-icon {
+    width: 1.5em;
+    height: 1.5em;
+    object-fit: contain;
+    margin-right: 0.5rem;
+}
+
 dd {
     font-size: 15px;
     font-weight: normal;
@@ -169,7 +201,8 @@ dd {
 
 address {
     font-size: 13px;
-    color: #27405D
+    color: #27405D;
+    margin-bottom: 0.75rem;
 }
 
 /* AGB */
@@ -178,4 +211,11 @@ address {
     padding: 0 1.75rem;
     max-width: 60rem;
     margin-inline: auto;
+    margin-bottom: 1.5rem;
+}
+
+/*Utility classes*/
+
+.margin-top-1 {
+    margin-top: 1rem;
 }
