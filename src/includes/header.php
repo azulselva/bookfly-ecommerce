@@ -19,7 +19,7 @@
                     <a href="/index.php">Home</a>
                 </li>        
                 <li>
-                    <a href="#">Über uns</a>
+                    <a href="/ueber-uns.php">Über uns</a>
                 </li>        
                 <li>
                     <a href="/kontakt.php">Kontakt</a>
